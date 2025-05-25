@@ -1,0 +1,7 @@
+D:\University4\DP\DP2,1\DP_GUI\DP_GUI\obj\Debug\net8.0-windows\DP_GUI.csproj.AssemblyReference.cache
+D:\University4\DP\DP2,1\DP_GUI\DP_GUI\obj\Debug\net8.0-windows\DP.Form1.resources
+D:\University4\DP\DP2,1\DP_GUI\DP_GUI\obj\Debug\net8.0-windows\DP_GUI.csproj.GenerateResource.cache
+D:\University4\DP\DP2,1\DP_GUI\DP_GUI\obj\Debug\net8.0-windows\DP_GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\University4\DP\DP2,1\DP_GUI\DP_GUI\obj\Debug\net8.0-windows\DP_GUI.AssemblyInfoInputs.cache
+D:\University4\DP\DP2,1\DP_GUI\DP_GUI\obj\Debug\net8.0-windows\DP_GUI.AssemblyInfo.cs
+D:\University4\DP\DP2,1\DP_GUI\DP_GUI\obj\Debug\net8.0-windows\DP_GUI.csproj.CoreCompileInputs.cache

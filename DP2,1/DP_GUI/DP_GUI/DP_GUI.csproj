@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<!-- Вивід як Windows Forms застосунок -->
+		<OutputType>WinExe</OutputType>
+		<!-- Правильний TargetFramework -->
+		<TargetFramework>net9.0-windows</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+		<Nullable>enable</Nullable>
+		<!-- Має співпадати з namespace у коді -->
+		<RootNamespace>DP_GUI</RootNamespace>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<!-- ScottPlot для Forms -->
+		<PackageReference Include="ScottPlot" Version="5.0.15" />
+		<PackageReference Include="ScottPlot.WinForms" Version="5.0.15" />
+		<!-- TPL Dataflow -->
+		<PackageReference Include="System.Threading.Tasks.Dataflow" Version="7.0.0" />
+	</ItemGroup>
+</Project>

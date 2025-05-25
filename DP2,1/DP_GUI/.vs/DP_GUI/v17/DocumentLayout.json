@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University4\\DP\\DP2,1\\DP_GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A9C8839-1AFE-47E2-A1AF-92FFA0C15961}|DP_GUI\\DP_GUI.csproj|d:\\university4\\dp\\dp2,1\\dp_gui\\dp_gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A9C8839-1AFE-47E2-A1AF-92FFA0C15961}|DP_GUI\\DP_GUI.csproj|solutionrelative:dp_gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A9C8839-1AFE-47E2-A1AF-92FFA0C15961}|DP_GUI\\DP_GUI.csproj|d:\\university4\\dp\\dp2,1\\dp_gui\\dp_gui\\workrunner.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A9C8839-1AFE-47E2-A1AF-92FFA0C15961}|DP_GUI\\DP_GUI.csproj|solutionrelative:dp_gui\\workrunner.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A9C8839-1AFE-47E2-A1AF-92FFA0C15961}|DP_GUI\\DP_GUI.csproj|d:\\university4\\dp\\dp2,1\\dp_gui\\dp_gui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A9C8839-1AFE-47E2-A1AF-92FFA0C15961}|DP_GUI\\DP_GUI.csproj|solutionrelative:dp_gui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A9C8839-1AFE-47E2-A1AF-92FFA0C15961}|DP_GUI\\DP_GUI.csproj|d:\\university4\\dp\\dp2,1\\dp_gui\\dp_gui\\metricslogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A9C8839-1AFE-47E2-A1AF-92FFA0C15961}|DP_GUI\\DP_GUI.csproj|solutionrelative:dp_gui\\metricslogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A9C8839-1AFE-47E2-A1AF-92FFA0C15961}|DP_GUI\\DP_GUI.csproj|d:\\university4\\dp\\dp2,1\\dp_gui\\dp_gui\\chartmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A9C8839-1AFE-47E2-A1AF-92FFA0C15961}|DP_GUI\\DP_GUI.csproj|solutionrelative:dp_gui\\chartmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A9C8839-1AFE-47E2-A1AF-92FFA0C15961}|DP_GUI\\DP_GUI.csproj|d:\\university4\\dp\\dp2,1\\dp_gui\\dp_gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A9C8839-1AFE-47E2-A1AF-92FFA0C15961}|DP_GUI\\DP_GUI.csproj|solutionrelative:dp_gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A9C8839-1AFE-47E2-A1AF-92FFA0C15961}|DP_GUI\\DP_GUI.csproj|d:\\university4\\dp\\dp2,1\\dp_gui\\dp_gui\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3A9C8839-1AFE-47E2-A1AF-92FFA0C15961}|DP_GUI\\DP_GUI.csproj|solutionrelative:dp_gui\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A9C8839-1AFE-47E2-A1AF-92FFA0C15961}|DP_GUI\\DP_GUI.csproj|d:\\university4\\dp\\dp2,1\\dp_gui\\dp_gui\\tasksimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A9C8839-1AFE-47E2-A1AF-92FFA0C15961}|DP_GUI\\DP_GUI.csproj|solutionrelative:dp_gui\\tasksimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A9C8839-1AFE-47E2-A1AF-92FFA0C15961}|DP_GUI\\DP_GUI.csproj|d:\\university4\\dp\\dp2,1\\dp_gui\\dp_gui\\dp_gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A9C8839-1AFE-47E2-A1AF-92FFA0C15961}|DP_GUI\\DP_GUI.csproj|solutionrelative:dp_gui\\dp_gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A9C8839-1AFE-47E2-A1AF-92FFA0C15961}|DP_GUI\\DP_GUI.csproj|D:\\University4\\DP\\DP2,1\\DP_GUI\\dp_gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A9C8839-1AFE-47E2-A1AF-92FFA0C15961}|DP_GUI\\DP_GUI.csproj|solutionrelative:dp_gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 213,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\University4\\DP\\DP2,1\\DP_GUI\\DP_GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "DP_GUI\\Form1.cs",
+              "ToolTip": "D:\\University4\\DP\\DP2,1\\DP_GUI\\DP_GUI\\Form1.cs",
+              "RelativeToolTip": "DP_GUI\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:36:06.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkRunner.cs.cs",
+              "DocumentMoniker": "D:\\University4\\DP\\DP2,1\\DP_GUI\\DP_GUI\\WorkRunner.cs.cs",
+              "RelativeDocumentMoniker": "DP_GUI\\WorkRunner.cs.cs",
+              "ToolTip": "D:\\University4\\DP\\DP2,1\\DP_GUI\\DP_GUI\\WorkRunner.cs.cs",
+              "RelativeToolTip": "DP_GUI\\WorkRunner.cs.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAPMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:35:56.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MetricsLogger.cs",
+              "DocumentMoniker": "D:\\University4\\DP\\DP2,1\\DP_GUI\\DP_GUI\\MetricsLogger.cs",
+              "RelativeDocumentMoniker": "DP_GUI\\MetricsLogger.cs",
+              "ToolTip": "D:\\University4\\DP\\DP2,1\\DP_GUI\\DP_GUI\\MetricsLogger.cs",
+              "RelativeToolTip": "DP_GUI\\MetricsLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:35:54.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\University4\\DP\\DP2,1\\DP_GUI\\DP_GUI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DP_GUI\\Form1.Designer.cs",
+              "ToolTip": "D:\\University4\\DP\\DP2,1\\DP_GUI\\DP_GUI\\Form1.Designer.cs",
+              "RelativeToolTip": "DP_GUI\\Form1.Designer.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAYwFUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:35:53.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DP_GUI.csproj",
+              "DocumentMoniker": "D:\\University4\\DP\\DP2,1\\DP_GUI\\DP_GUI\\DP_GUI.csproj",
+              "RelativeDocumentMoniker": "DP_GUI\\DP_GUI.csproj",
+              "ToolTip": "D:\\University4\\DP\\DP2,1\\DP_GUI\\DP_GUI\\DP_GUI.csproj",
+              "RelativeToolTip": "DP_GUI\\DP_GUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-10T10:36:22.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskSimulator.cs",
+              "DocumentMoniker": "D:\\University4\\DP\\DP2,1\\DP_GUI\\DP_GUI\\TaskSimulator.cs",
+              "RelativeDocumentMoniker": "DP_GUI\\TaskSimulator.cs",
+              "ToolTip": "D:\\University4\\DP\\DP2,1\\DP_GUI\\DP_GUI\\TaskSimulator.cs",
+              "RelativeToolTip": "DP_GUI\\TaskSimulator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:35:55.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "test.txt",
+              "DocumentMoniker": "D:\\University4\\DP\\DP2,1\\DP_GUI\\DP_GUI\\test.txt",
+              "RelativeDocumentMoniker": "DP_GUI\\test.txt",
+              "ToolTip": "D:\\University4\\DP\\DP2,1\\DP_GUI\\DP_GUI\\test.txt",
+              "RelativeToolTip": "DP_GUI\\test.txt",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-10T13:34:39.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University4\\DP\\DP2,1\\DP_GUI\\DP_GUI\\Program.cs",
+              "RelativeDocumentMoniker": "DP_GUI\\Program.cs",
+              "ToolTip": "D:\\University4\\DP\\DP2,1\\DP_GUI\\DP_GUI\\Program.cs",
+              "RelativeToolTip": "DP_GUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:35:55.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChartModule.cs",
+              "DocumentMoniker": "D:\\University4\\DP\\DP2,1\\DP_GUI\\DP_GUI\\ChartModule.cs",
+              "RelativeDocumentMoniker": "DP_GUI\\ChartModule.cs",
+              "ToolTip": "D:\\University4\\DP\\DP2,1\\DP_GUI\\DP_GUI\\ChartModule.cs",
+              "RelativeToolTip": "DP_GUI\\ChartModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:35:50.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\University4\\DP\\DP2,1\\DP_GUI\\DP_GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "DP_GUI\\Form1.cs",
+              "ToolTip": "D:\\University4\\DP\\DP2,1\\DP_GUI\\DP_GUI\\Form1.cs [Design]",
+              "RelativeToolTip": "DP_GUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:36:00.876Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

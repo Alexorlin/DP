@@ -1,0 +1,16 @@
+TaskIndex,TimeMs,Load%,Result
+1,2,64,53,1,test2.txt: 18398 bytes
+2,2,61,62,5,test2.txt: 18398 bytes
+3,2,78,59,4,test2.txt: 18398 bytes
+4,2,90,62,5,test2.txt: 18398 bytes
+5,2,96,59,4,test3.txt: 18133 bytes
+6,2,82,46,9,test.txt: 18017 bytes
+7,2,86,46,9,test.txt: 18017 bytes
+8,2,91,37,5,test3.txt: 18133 bytes
+9,2,97,43,8,test2.txt: 18398 bytes
+10,2,95,37,5,test3.txt: 18133 bytes
+11,2,96,21,9,test.txt: 18017 bytes
+12,2,87,25,0,test.txt: 18017 bytes
+13,2,96,21,9,test.txt: 18017 bytes
+14,2,87,15,6,test3.txt: 18133 bytes
+15,2,95,12,5,test3.txt: 18133 bytes
